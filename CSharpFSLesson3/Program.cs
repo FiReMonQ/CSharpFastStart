@@ -23,8 +23,8 @@ namespace CSharpFSLesson2
 
             Console.Write("Type: ");
             string ganre = Console.ReadLine();
-                        
-            if (ganre == "Comedy") 
+
+            if (ganre == "Comedy")
             {
                 Console.WriteLine("Movies in Comedy ganre:");
                 Console.WriteLine("Home Alone");
@@ -34,7 +34,7 @@ namespace CSharpFSLesson2
                 Console.WriteLine();
             }
 
-            if (ganre == "Drama")
+            else if (ganre == "Drama")
             {
                 Console.WriteLine("Movies in Drama ganre:");
                 Console.WriteLine("Shoshenk redemption");
@@ -44,16 +44,32 @@ namespace CSharpFSLesson2
                 Console.WriteLine();
             }
 
-            if (ganre == "Western")
+            else if (ganre == "Western")
             {
-                Console.WriteLine("Movies in Western ganre:");
-                Console.WriteLine("Wild Wild West");
-                Console.WriteLine("Luky 7");
-                Console.WriteLine("Good. Bad. Dead");
-                Console.WriteLine("Gun speak");
-                Console.WriteLine();
+                Console.WriteLine("How old are you?");
+                Console.Write("My age:");
+                string agestr = Console.ReadLine();
+                int age = Int32.Parse(agestr);
+
+                if (age < 18)
+                {
+                    Console.WriteLine("You can`t see these type of movie!");
+                }
+                else
+                    Console.WriteLine("Movies in Western ganre:");
+                    Console.WriteLine("Wild Wild West");
+                    Console.WriteLine("Luky 7");
+                    Console.WriteLine("Good. Bad. Dead");
+                    Console.WriteLine("Gun speak");
+                    Console.WriteLine();
+                
             }
-            
+
+            else
+            {
+                Console.WriteLine("Sorry we have no these ganre!!");
+            }
+
             Console.ReadLine();
         }
     }
