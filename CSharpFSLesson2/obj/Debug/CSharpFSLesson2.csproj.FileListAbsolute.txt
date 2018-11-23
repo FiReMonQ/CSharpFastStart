@@ -1,0 +1,7 @@
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\bin\Debug\CSharpFSLesson2.exe.config
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\bin\Debug\CSharpFSLesson2.exe
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\bin\Debug\CSharpFSLesson2.pdb
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\obj\Debug\CSharpFSLesson2.csprojAssemblyReference.cache
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\obj\Debug\CSharpFSLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\obj\Debug\CSharpFSLesson2.exe
+C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson2\obj\Debug\CSharpFSLesson2.pdb
