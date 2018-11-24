@@ -5,3 +5,10 @@ C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson3
 C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.csproj.CoreCompileInputs.cache
 C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.exe
 C:\Users\Alexander Yumshanov\Desktop\Projects\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.pdb
+F:\C#\CSharpFastStart\CSharpFSLesson3\bin\Debug\CSharpFSLesson3.exe.config
+F:\C#\CSharpFastStart\CSharpFSLesson3\bin\Debug\CSharpFSLesson3.exe
+F:\C#\CSharpFastStart\CSharpFSLesson3\bin\Debug\CSharpFSLesson3.pdb
+F:\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.csprojAssemblyReference.cache
+F:\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.csproj.CoreCompileInputs.cache
+F:\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.exe
+F:\C#\CSharpFastStart\CSharpFSLesson3\obj\Debug\CSharpFSLesson3.pdb

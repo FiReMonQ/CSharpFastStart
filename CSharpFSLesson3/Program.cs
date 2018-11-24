@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpFSLesson2
+namespace CSharpFSLesson3
 {
     class Program
     {
