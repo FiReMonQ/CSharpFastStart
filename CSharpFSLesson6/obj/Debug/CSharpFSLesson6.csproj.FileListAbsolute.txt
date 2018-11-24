@@ -1,0 +1,10 @@
+F:\C#\CSharpFastStart\CSharpFSLesson6\bin\Debug\CSharpFSLesson6.exe.config
+F:\C#\CSharpFastStart\CSharpFSLesson6\bin\Debug\CSharpFSLesson6.exe
+F:\C#\CSharpFastStart\CSharpFSLesson6\bin\Debug\CSharpFSLesson6.pdb
+F:\C#\CSharpFastStart\CSharpFSLesson6\bin\Debug\SmallBasicLibrary.dll
+F:\C#\CSharpFastStart\CSharpFSLesson6\bin\Debug\SmallBasicLibrary.xml
+F:\C#\CSharpFastStart\CSharpFSLesson6\obj\Debug\CSharpFSLesson6.csproj.CoreCompileInputs.cache
+F:\C#\CSharpFastStart\CSharpFSLesson6\obj\Debug\CSharpFSLesson6.csproj.CopyComplete
+F:\C#\CSharpFastStart\CSharpFSLesson6\obj\Debug\CSharpFSLesson6.exe
+F:\C#\CSharpFastStart\CSharpFSLesson6\obj\Debug\CSharpFSLesson6.pdb
+F:\C#\CSharpFastStart\CSharpFSLesson6\obj\Debug\CSharpFSLesson6.csprojAssemblyReference.cache
