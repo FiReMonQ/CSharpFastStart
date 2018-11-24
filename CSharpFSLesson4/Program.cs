@@ -11,44 +11,37 @@ namespace CSharpFSLesson4
     {
         static void Main(string[] args)
         {
-            Turtle.Speed = 10;
+            Turtle.Speed = 9;
             int i = 0;
-            while (i < 6) //это шестиугольник
+
+            while (i < 6)
             {
-                Turtle.Move(50);
+                Turtle.Move(100);
                 Turtle.Turn(60);
                 i++;
             }
-            Turtle.PenUp();
-            Turtle.TurnLeft();
-            Turtle.Move(150);
-            Turtle.PenDown();
 
-            i = 0;
-            while (i < 360)  //это круг
-            {
-                Turtle.Turn(1);
-                Turtle.Move(1);
-                i++;
-            }
-
-            Turtle.PenUp();
-            Turtle.TurnLeft();
             Turtle.Move(50);
-            Turtle.PenDown();
-            i = 0;
-            while (i < 4)  //это заборчик
+            Turtle.TurnRight();
+
+            while (i < 9)
             {
-                Turtle.Move(20);
-                Turtle.TurnLeft();
-                Turtle.Move(20);
-                Turtle.TurnLeft();
-                Turtle.Move(20);
-                Turtle.TurnRight();
-                Turtle.Move(20);
-                Turtle.TurnRight();
-                i++;
+            Turtle.Move(25);
+            Turtle.TurnRight();
+
+            Turtle.Move(25);
+            Turtle.TurnLeft();
+
+            Turtle.Move(25);
+            Turtle.TurnLeft();
+
+            Turtle.Move(25);
+            Turtle.TurnRight();
+
+            i++;
             }
+            Turtle.Move(23);
+            Turtle.TurnLeft();
         }
     }
 }
